@@ -1,0 +1,17 @@
+{
+  "name": "Ростомер — игры с ребёнком 0–3",
+  "short_name": "Ростомер",
+  "description": "Библиотека занятий и игр с ребёнком от рождения до трёх лет",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8E1D3",
+  "theme_color": "#E8E1D3",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
